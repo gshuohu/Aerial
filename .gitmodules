@@ -1,5 +1,5 @@
 [submodule "Extern/OAuthSwift"]
 	path = Extern/OAuthSwift
 	url = https://github.com/OAuthSwift/OAuthSwift.git
-	branch = 2.0.0
+	branch = 2.0.1
 	ignore = dirty
